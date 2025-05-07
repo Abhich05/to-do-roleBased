@@ -1,0 +1,27 @@
+# Ignore environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+build/
+dist/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+
+# Misc
+*.local
+.env.*.local
